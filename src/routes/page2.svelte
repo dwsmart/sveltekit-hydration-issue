@@ -16,4 +16,4 @@
 </script>
 <h1>This is page 2</h1>
 {@html content}
-<p>Back to home <a sveltekit:prefetch href="/">Home</a></p>
+<p>Back to home <a sveltekit:prefetch href="./">Home</a></p>
